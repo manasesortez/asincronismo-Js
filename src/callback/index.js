@@ -5,7 +5,7 @@ const EPISODE = 'episode/:id/';
 
 const OPTS = { crossDomain: true };
 
-/*
+
 //function of suma
 function suma(n1, n2) {
     return n1 + n2;
@@ -33,5 +33,3 @@ function printDate(dateNow) {
 };
 
 date(printDate);
-
-*/
